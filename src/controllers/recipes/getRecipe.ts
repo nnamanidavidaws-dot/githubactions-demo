@@ -11,6 +11,7 @@ export async function getRecipe(req, res) {
       title: "Chicken Alfredo Pasta",
       ingredients: [
         "1 lb chicken",
+        "2 tbsp olive oil",
         "1 cup Alfredo sauce",
         "1/2 cup Parmesan cheese",
         "1/2 cup Mozzarella cheese",
